@@ -1,18 +1,10 @@
 # wran-robot-map-view
 
-This template should help get you started developing with Vue 3 in Vite.
+Robot Map View with Vue 3 and maplibre-gl.
 
-## Recommended IDE Setup
+## Step to Run the application
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Type Support for `.vue` Imports in TS
-
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Please follow project setup below to run the application in your local. Make sure you have Node installed!
 
 ## Project Setup
 
@@ -24,16 +16,4 @@ npm install
 
 ```sh
 npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
