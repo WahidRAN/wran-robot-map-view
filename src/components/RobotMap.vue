@@ -86,7 +86,7 @@ onMounted(async () => {
 <style>
 .robot-marker {
   cursor: pointer;
-  content: url('../../public/robots-arrow-no-bg.png');
+  content: url('/robots-arrow-no-bg.png');
   width: 32px;
   height: 32px;
   object-fit: contain;
